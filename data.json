@@ -1,0 +1,2973 @@
+{
+  "roomTypes": [
+    {
+      "offers": [
+        {
+          "description": "Internet Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "78.26",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "565.75",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "471.46",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "78.26",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "565.75",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "565.75",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241690",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTY5MCIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc1OCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 565
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1695,
+              "bonus": 0,
+              "base": 1695
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "86.96",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "628.61",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "523.84",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "86.96",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "628.61",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "628.61",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241692",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTY5MiIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc1OCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 628
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1884,
+              "bonus": 0,
+              "base": 1884
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "89.00",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "643.37",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "536.14",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "89.00",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "643.37",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "643.37",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241691",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTY5MSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc1OCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 643
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1929,
+              "bonus": 0,
+              "base": 1929
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "97.70",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "706.24",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "588.53",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "97.70",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "706.24",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "706.24",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241693",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTY5MyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc1OCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 706
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2118,
+              "bonus": 0,
+              "base": 2118
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>1 Double Bed</strong></p><p>323 sq feet </p><br /><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), and 24-hour room service</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer</p><p><b>Practical</b> - Safe, iron/ironing board, and desk; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Primary image",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e5a49b53_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e5a49b53_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e5a49b53_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e5a49b53_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Primary image",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_z.jpg"
+      },
+      "name": "Deluxe Double Room",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination",
+        "No rollaway/extra beds"
+      ],
+      "id": "5768054",
+      "maxOccupantCount": 2
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "78.26",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "565.75",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "471.46",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "78.26",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "565.75",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "565.75",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241740",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTc0MCIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 565
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1695,
+              "bonus": 0,
+              "base": 1695
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "86.96",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "628.61",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "523.84",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "86.96",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "628.61",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "628.61",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241742",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTc0MiIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 628
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1884,
+              "bonus": 0,
+              "base": 1884
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "89.00",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "643.37",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "536.14",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "89.00",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "643.37",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "643.37",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241741",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTc0MSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 643
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1929,
+              "bonus": 0,
+              "base": 1929
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "97.70",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "706.24",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "588.53",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "97.70",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "706.24",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "706.24",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241743",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTc0MyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 706
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2118,
+              "bonus": 0,
+              "base": 2118
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>1 King Bed</strong></p><p>323 sq feet </p><br /><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), and 24-hour room service</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer</p><p><b>Practical</b> - Safe, iron/ironing board, and desk; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_z.jpg"
+        },
+        {
+          "caption": "Primary image",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/e569f6c1_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d6c2797c_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d6c2797c_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d6c2797c_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d6c2797c_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_z.jpg"
+        },
+        {
+          "caption": "Street view",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1b58bd3d_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1b58bd3d_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1b58bd3d_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1b58bd3d_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a5fff281_z.jpg"
+      },
+      "name": "Deluxe Room, 1 King Bed",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination",
+        "No rollaway/extra beds"
+      ],
+      "id": "5768059",
+      "maxOccupantCount": 2
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "90.34",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "653.05",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "544.21",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "90.34",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "653.05",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "653.05",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241727",
+          "bedGroups": [
+            {
+              "description": "2 Double Beds",
+              "bedTypeId": "37365",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTcyNyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 653
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 1959,
+              "bonus": 0,
+              "base": 1959
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "100.38",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "725.62",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "604.68",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "100.38",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "725.62",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "725.62",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            }
+          ],
+          "otaRatePlanCode": "238241729",
+          "bedGroups": [
+            {
+              "description": "2 Double Beds",
+              "bedTypeId": "37365",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTcyOSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 725
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2175,
+              "bonus": 0,
+              "base": 2175
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "101.08",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "730.68",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "608.90",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "101.08",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "730.68",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "730.68",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241728",
+          "bedGroups": [
+            {
+              "description": "2 Double Beds",
+              "bedTypeId": "37365",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTcyOCIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 730
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2190,
+              "bonus": 0,
+              "base": 2190
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "111.11",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "803.24",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "669.37",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "111.11",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "803.24",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "803.24",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238241730",
+          "bedGroups": [
+            {
+              "description": "2 Double Beds",
+              "bedTypeId": "37365",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0MTczMCIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc2MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 803
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2409,
+              "bonus": 0,
+              "base": 2409
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>2 Double Beds</strong></p><p>3232 sq feet </p><br /><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), and 24-hour room service</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer</p><p><b>Practical</b> - Safe, iron/ironing board, and desk</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/51335b06_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/51335b06_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/51335b06_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/51335b06_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1c56cee1_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1c56cee1_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1c56cee1_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1c56cee1_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/cabad058_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2e894070_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/82ae777f_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/72eb12bc_z.jpg"
+      },
+      "name": "Deluxe Room (Family)",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Recycling",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination"
+      ],
+      "id": "5768058",
+      "maxOccupantCount": 4
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "97.59",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "705.44",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "587.86",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "97.59",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "705.44",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "705.44",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238131816",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODEzMTgxNiIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIwMDYzMjczNyJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 705
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2115,
+              "bonus": 0,
+              "base": 2115
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "108.43",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "783.82",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "653.18",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "108.43",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "783.82",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "783.82",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "203042547",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIwMzA0MjU0NyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIwMDYzMjczNyJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 783
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2349,
+              "bonus": 0,
+              "base": 2349
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>1 Double Bed</strong></p><p>323-sq-foot room with city views </p><br /><p><b>Club Level</b> - Buffet breakfast</p><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Free newspaper, safe, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b3e4272f_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b3e4272f_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b3e4272f_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b3e4272f_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/1254f353_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d0f8e834_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d0f8e834_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d0f8e834_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/d0f8e834_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_z.jpg"
+        },
+        {
+          "caption": "Street view",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/2c1dc71d_z.jpg"
+      },
+      "name": "Club Double Room",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Rollaway/extra beds (surcharge)",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Free bottled water",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Slippers",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Bathrobes",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Club level room",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Free newspaper",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination"
+      ],
+      "id": "38409",
+      "maxOccupantCount": 2
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "103.38",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "747.34",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "622.79",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "103.38",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "747.34",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "747.34",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246701",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0NjcwMSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 747
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2241,
+              "bonus": 0,
+              "base": 2241
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "114.87",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "830.39",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "691.99",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "114.87",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "830.39",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "830.39",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246699",
+          "bedGroups": [
+            {
+              "description": "1 Double Bed",
+              "bedTypeId": "37316",
+              "bedTypes": [
+                {
+                  "type": "FullBed",
+                  "size": "Full",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0NjY5OSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3MSJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 830
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2490,
+              "bonus": 0,
+              "base": 2490
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>1 Double Bed</strong></p><p>323 sq feet </p><br /><p><b>Club/Executive Level</b> - Continental breakfast</p><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Free newspaper, safe, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_z.jpg"
+        },
+        {
+          "caption": "Street view",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/ad71ff0e_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/ad71ff0e_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/ad71ff0e_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/ad71ff0e_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/46d2d6b6_z.jpg"
+      },
+      "name": "Executive Double Room",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Free bottled water",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Slippers",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Bathrobes",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Free newspaper",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination",
+        "No rollaway/extra beds"
+      ],
+      "id": "5768063",
+      "maxOccupantCount": 2
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "103.38",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "747.34",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "622.79",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "103.38",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "747.34",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "747.34",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246715",
+          "bedGroups": [
+            {
+              "description": "2 Twin Beds",
+              "bedTypeId": "37341",
+              "bedTypes": [
+                {
+                  "type": "TwinBed",
+                  "size": "Twin",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0NjcxNSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 747
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2241,
+              "bonus": 0,
+              "base": 2241
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "114.87",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "830.39",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "691.99",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "114.87",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "830.39",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "830.39",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246713",
+          "bedGroups": [
+            {
+              "description": "2 Twin Beds",
+              "bedTypeId": "37341",
+              "bedTypes": [
+                {
+                  "type": "TwinBed",
+                  "size": "Twin",
+                  "quantity": 2
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0NjcxMyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3MiJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 830
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 2490,
+              "bonus": 0,
+              "base": 2490
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>2 Twin Beds</strong></p><p>323 sq feet </p><br /><p><b>Club/Executive Level</b> - Buffet breakfast</p><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Free newspaper, safe, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/62ca4843_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25f58ead_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9d9100ed_z.jpg"
+        },
+        {
+          "caption": "Street view",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/4bccc4c4_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/3d65a41b_z.jpg"
+      },
+      "name": "Executive Twin Room",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Free bottled water",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Slippers",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Bathrobes",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Free newspaper",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination",
+        "No rollaway/extra beds"
+      ],
+      "id": "5768064",
+      "maxOccupantCount": 2
+    },
+    {
+      "offers": [
+        {
+          "description": "Internet Included, Breakfast Included - Non-refundable",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 22:29 (GMT+01:00) on Aug 10, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-10T22:29:52.571+01:00",
+                "percentage": "100%",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "formattedBeforeDate": "Sat 10 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": true
+          },
+          "name": "Internet Included, Breakfast Included - Non-refundable",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "155.56",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "1124.51",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "937.09",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "155.56",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "1124.51",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "1124.51",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246743",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0Njc0MyIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3NCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 1124
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 3372,
+              "bonus": 0,
+              "base": 3372
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        },
+        {
+          "description": "Internet Included, Breakfast Included",
+          "cancellationPolicy": {
+            "description": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+01:00) on Aug 16, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+            "cancellationWindows": [
+              {
+                "startTime": "2024-08-16T14:00:00.000+01:00",
+                "endTime": "2024-08-17T14:00:00.000+01:00",
+                "currency": "AUD",
+                "nights": "1",
+                "formattedBeforeDate": "Fri 16 Aug, 2024"
+              }
+            ],
+            "isNonrefundable": false
+          },
+          "name": "Internet Included, Breakfast Included",
+          "charges": {
+            "payableAtProperty": {
+              "breakdown": [],
+              "total": {
+                "amount": "0.00",
+                "currency": "AUD"
+              }
+            },
+            "totalDiscount": {
+              "amount": "0.00",
+              "currency": "AUD"
+            },
+            "payableAtBooking": {
+              "tax": {
+                "amount": "0.00",
+                "currency": "AUD"
+              },
+              "taxRecovery": {
+                "amount": "172.84",
+                "currency": "AUD"
+              },
+              "total": {
+                "amount": "1249.45",
+                "currency": "AUD"
+              },
+              "baseRate": {
+                "amount": "1041.21",
+                "currency": "AUD"
+              },
+              "taxDisplayable": {
+                "amount": "172.84",
+                "currency": "AUD"
+              }
+            },
+            "total": {
+              "amount": "1249.45",
+              "currency": "AUD"
+            },
+            "totalBeforeDiscount": {
+              "amount": "1249.45",
+              "currency": "AUD"
+            }
+          },
+          "memberDealAvailable": false,
+          "depositPay": {
+            "depositPayable": false
+          },
+          "type": "standard",
+          "inclusions": [
+            {
+              "description": "Free WiFi",
+              "name": "Internet Included",
+              "code": "internet"
+            },
+            {
+              "description": "Free breakfast",
+              "name": "Breakfast Included",
+              "code": "breakfast"
+            }
+          ],
+          "otaRatePlanCode": "238246741",
+          "bedGroups": [
+            {
+              "description": "1 King Bed",
+              "bedTypeId": "37321",
+              "bedTypes": [
+                {
+                  "type": "KingBed",
+                  "size": "King",
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "pointsTierInstanceId": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+          "id": "eyJlcHNfcHJvcGVydHlfaWQiOiI1MjMyMjgiLCJvZmZlcl9pZCI6IjIzODI0Njc0MSIsIm9mZmVyX3R5cGUiOiJzdGFuZGFyZCIsIm90YV9yb29tX3R5cGVfY29kZSI6IjIxMjcxMzc3NCJ9",
+          "pointsEarned": {
+            "maxQffEarnPpd": 3,
+            "qbrPoints": {
+              "total": 1249
+            },
+            "maxQbrEarnPpd": 1,
+            "qffPoints": {
+              "qffPointsClub": 0,
+              "total": 3747,
+              "bonus": 0,
+              "base": 3747
+            },
+            "promotionMultiplier": 1,
+            "propertyPpd": 3
+          },
+          "luxOffer": false,
+          "promotion": null,
+          "valueAdds": []
+        }
+      ],
+      "description": "<p><strong>1 King Bed</strong></p><p>538 sq feet </p><br /><p><b>Club Level</b> - Buffet breakfast</p><p><b>Internet</b> - Free WiFi 50+ Mbps </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food &amp; Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Free newspaper, safe, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar near toilet</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, compost bin, recycling bin, and LED light bulbs</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "images": [
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9ff05b24_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9ff05b24_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9ff05b24_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/9ff05b24_z.jpg"
+        },
+        {
+          "caption": "Room",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b6f18813_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b6f18813_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b6f18813_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/b6f18813_z.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_n.jpg",
+          "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_b.jpg",
+          "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_b.jpg",
+          "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/a56c71c8_z.jpg"
+        }
+      ],
+      "mainImage": {
+        "caption": "Room",
+        "urlSmall": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_n.jpg",
+        "urlOriginal": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_b.jpg",
+        "urlMedium": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_b.jpg",
+        "urlLarge": "https://i.travelapi.com/lodging/1000000/530000/523300/523228/25b15c77_z.jpg"
+      },
+      "name": "Studio Suite",
+      "roomTypeFacilities": [
+        "Coffee/tea maker",
+        "Room service (24 hours)",
+        "Hair dryer",
+        "LED light bulbs",
+        "Non-Smoking",
+        "Connecting/adjoining rooms available",
+        "Free bottled water",
+        "Recycling",
+        "Free cribs/infant beds",
+        "Slippers",
+        "Daily housekeeping",
+        "Iron/ironing board",
+        "Grab bar - near toilet",
+        "WiFi speed - 50+ Mbps",
+        "Minibar",
+        "Wireless internet access",
+        "In-room climate control (air conditioning)",
+        "Towels provided",
+        "Bathrobes",
+        "Wheelchair-accessible bathroom vanity",
+        "Phone",
+        "Bedsheets provided",
+        "In-room safe",
+        "Composting",
+        "Club level room",
+        "Grab bar - in bathtub",
+        "Free WiFi",
+        "Flat-panel TV",
+        "Free toiletries",
+        "Free newspaper",
+        "Satellite TV service",
+        "Eco-friendly toiletries",
+        "Accessible bathtub",
+        "Private bathroom",
+        "Desk",
+        "Shower/tub combination",
+        "No rollaway/extra beds"
+      ],
+      "id": "5768066",
+      "maxOccupantCount": 2
+    }
+  ],
+  "id": "18484",
+  "meta": {
+    "pointsTierInstances": {
+      "48D85B88Ab944D4096089E2Bbd5Fc137": {
+        "id": "48d85b88-ab94-4d40-9608-9e2bbd5fc137",
+        "family": "d5fc7d01-38cb-4b30-a322-d21002fe7b00",
+        "name": "VERSION12",
+        "levels": [
+          {
+            "min": 0,
+            "max": 150,
+            "rate": 0.00783
+          },
+          {
+            "min": 150,
+            "max": 400,
+            "rate": 0.00792
+          },
+          {
+            "min": 400,
+            "max": 650,
+            "rate": 0.00805
+          },
+          {
+            "min": 650,
+            "max": 900,
+            "rate": 0.00832
+          },
+          {
+            "min": 900,
+            "max": null,
+            "rate": 0.00884
+          }
+        ]
+      }
+    },
+    "query": {
+      "children": "0",
+      "checkOut": "2024-08-18",
+      "channel": "unknown",
+      "payWith": "cash",
+      "brand": "qantas",
+      "id": "18484",
+      "checkIn": "2024-08-17",
+      "refundableOnly": "false",
+      "infants": "0",
+      "adults": "2"
+    }
+  }
+}
